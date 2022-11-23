@@ -3,6 +3,8 @@
 
 #include "ellipse.hpp"
 
+// Circle֊ում անիմաստ մի փոփոխական ավել ես ունենում
+// Կարելի էր հակառակ ժառանգել
 class Circle : public Ellipse 
 {
 public:
