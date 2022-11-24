@@ -3,7 +3,7 @@
 
 #include "figure.hpp"
 
-class Ellipse : Figure 
+class Ellipse : public Figure 
 {
     double r1;
     double r2;

@@ -3,7 +3,7 @@
 
 #include "figure.hpp"
 
-class Rectangle : Figure 
+class Rectangle : public Figure 
 {
     double side_0;
     double side_1; 
